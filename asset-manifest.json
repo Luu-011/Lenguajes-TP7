@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Luu-011/Lenguajes-TP7/static/css/main.2de3aeb0.css",
+    "main.js": "/Luu-011/Lenguajes-TP7/static/js/main.7aa6d3ee.js",
+    "static/js/453.f02ac6fb.chunk.js": "/Luu-011/Lenguajes-TP7/static/js/453.f02ac6fb.chunk.js",
+    "static/media/Proyecto2-GranVista.jpg": "/Luu-011/Lenguajes-TP7/static/media/Proyecto2-GranVista.cc060ce4a48b8231a3d5.jpg",
+    "static/media/Proyecto1-Alamos.jpg": "/Luu-011/Lenguajes-TP7/static/media/Proyecto1-Alamos.5b305d3d7f30b0e99faa.jpg",
+    "static/media/Proyecto3-TerraAlta.jpg": "/Luu-011/Lenguajes-TP7/static/media/Proyecto3-TerraAlta.cf6086b3d4ddf03bb8cd.jpg",
+    "static/media/logo.footer.jpeg": "/Luu-011/Lenguajes-TP7/static/media/logo.footer.79878b0e08554413abb9.jpeg",
+    "static/media/logo.header.jpeg": "/Luu-011/Lenguajes-TP7/static/media/logo.header.707a9847ede8ce172c12.jpeg",
+    "index.html": "/Luu-011/Lenguajes-TP7/index.html",
+    "main.2de3aeb0.css.map": "/Luu-011/Lenguajes-TP7/static/css/main.2de3aeb0.css.map",
+    "main.7aa6d3ee.js.map": "/Luu-011/Lenguajes-TP7/static/js/main.7aa6d3ee.js.map",
+    "453.f02ac6fb.chunk.js.map": "/Luu-011/Lenguajes-TP7/static/js/453.f02ac6fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2de3aeb0.css",
+    "static/js/main.7aa6d3ee.js"
+  ]
+}
